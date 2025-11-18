@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "909464268537",
+    "project_id": "finovo-9711e",
+    "storage_bucket": "finovo-9711e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909464268537:android:c8fda4a38a3e7987787c28",
+        "android_client_info": {
+          "package_name": "com.example.finovo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909464268537-jbk0aev4kj46im8dcu55eg3h6kqe1e10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO-vbIQUHnlDj5jSQ7NgJ1NwtAGK_UrW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909464268537-jbk0aev4kj46im8dcu55eg3h6kqe1e10.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909464268537-5ll3mrtennpi6mr4jdbi5qova3rb6fk0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finovo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
